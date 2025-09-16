@@ -4,6 +4,10 @@
 [![Unity Catalog](https://img.shields.io/badge/Unity_Catalog-Enabled-00A1C9?style=for-the-badge)](https://docs.databricks.com/en/data-governance/unity-catalog/index.html)
 [![Serverless](https://img.shields.io/badge/Serverless-Compute-00C851?style=for-the-badge)](https://docs.databricks.com/en/compute/serverless.html)
 
+# Assets:
+**use the three notebooks from root folder.
+**
+
 ## Installation Guidelines
 
 1. Clone the project you'd like to run into your Databricks Workspace
