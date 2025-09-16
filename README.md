@@ -8,6 +8,11 @@
 **use the three notebooks from root folder.
 **
 
+# Wiki:
+1. internal link: https://databricks.atlassian.net/wiki/spaces/UN/pages/5351080471/Genie+Can+Autocomplete+You
+2. Youtube demo video: https://www.youtube.com/watch?v=ipHh_NbOkS4
+
+
 ## Installation Guidelines
 
 1. Clone the project you'd like to run into your Databricks Workspace
