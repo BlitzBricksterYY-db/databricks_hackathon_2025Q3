@@ -1,18 +1,39 @@
-# Databricks Solution Accelerator Template - MODIFY THIS README.md
-
+# FE All Stars: Genie🧞 Can Autocomplete✍️ You🙊!
 [![Databricks](https://img.shields.io/badge/Databricks-Solution_Accelerator-FF3621?style=for-the-badge&logo=databricks)](https://databricks.com)
 [![Unity Catalog](https://img.shields.io/badge/Unity_Catalog-Enabled-00A1C9?style=for-the-badge)](https://docs.databricks.com/en/data-governance/unity-catalog/index.html)
 [![Serverless](https://img.shields.io/badge/Serverless-Compute-00C851?style=for-the-badge)](https://docs.databricks.com/en/compute/serverless.html)
 
+# TL;DR:
+Users often don’t know what questions to ask in Genie rooms and sometimes asking vague questions, which lead to lower-quality responses and higher curator effort. Genie Autocomplete provides real-time, context-aware suggestions, guiding users to ask better questions, improving response quality, and reducing curator workload.
+
+Genie Autocomplete makes question-asking easier and smarter by suggesting the most relevant questions as users type.
+
+- **🧠Context-aware suggestions** – Drawn from room metadata and historical business questions asked by previous users.
+
+- **⚡Real-time guidance** – Autocomplete surfaces options instantly as users type partial input.
+
+- **🪞Clarity for vague queries** – Helps users reframe imprecise questions into clearer, more precise ones.
+
+- **🤖Less curator effort** – Automatically generates useful suggestions, reducing the need for curators to manually create and maintain starter questions.
+
+With Genie Autocomplete, users explore rooms more effectively, get higher-quality answers, and curators save time.
+
+
+
 # Assets:
-**use the three notebooks from root folder.
-**
+1. Backend part including ETL & Synthesis & VS index modules tested on Dogfood Workspace. Please reference the three notebooks under the root folder.
+2. Genie Frontend UI and API part sit inside the Genie Eng codebase so we couldn't put here. Internal link of PR: https://github.com/databricks-eng/universe/pull/1292467
+3. For reference about how to connect backend and frontend parts, I have included a demo showcasing how to connect Databricks Apps using Dash framework to the backend part to realize the same functionality. 
 
 # Wiki:
-1. internal link: https://databricks.atlassian.net/wiki/spaces/UN/pages/5351080471/Genie+Can+Autocomplete+You
-2. Youtube demo video: https://www.youtube.com/watch?v=ipHh_NbOkS4
+1. internal link:
+   - Hackathon link: https://databricks.atlassian.net/wiki/spaces/UN/pages/5351080471/Genie+Can+Autocomplete+You
+   - FE-All-Stars link: https://databricks.atlassian.net/browse/FEIP-1572
+3. Youtube demo video: https://www.youtube.com/watch?v=ipHh_NbOkS4
 
 
+>------------------------------
+---------------------------------you can skip below SolAcc template for now--------------------------------------
 ## Installation Guidelines
 
 1. Clone the project you'd like to run into your Databricks Workspace
