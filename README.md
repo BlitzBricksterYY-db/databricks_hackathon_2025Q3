@@ -18,6 +18,11 @@ Genie Autocomplete makes question-asking easier and smarter by suggesting the mo
 
 With Genie Autocomplete, users explore rooms more effectively, get higher-quality answers, and curators save time.
 
+# Demo (30s):
+https://github.com/user-attachments/assets/b82d46fb-7d90-4258-9884-9d8bb5f4ed23
+
+
+[comment]: <> (this is comment and will not show up in preview <img width="2470" height="1692" alt="Genie_demo_pic" src="https://github.com/user-attachments/assets/9325476c-2619-4d8d-b7f8-dcf05dbdf57e" />)
 
 # Assets:
 1. Backend part including ETL & Synthesis & VS index modules tested on Dogfood Workspace. Please reference the three notebooks under the root folder.
