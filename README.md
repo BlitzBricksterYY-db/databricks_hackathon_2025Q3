@@ -27,13 +27,13 @@ https://github.com/user-attachments/assets/b82d46fb-7d90-4258-9884-9d8bb5f4ed23
 # Assets:
 1. Backend part including ETL & Synthesis & VS index modules tested on Dogfood Workspace. Please reference the three notebooks under the root folder.
 2. Genie Frontend UI and API part sit inside the Genie Eng codebase so we couldn't put here. Internal link of PR: https://github.com/databricks-eng/universe/pull/1292467
-3. If you couldn't access the previous PR link, for reference about how to connect backend and frontend parts to enable Genie user's keyboard input's real-time semantic search autocompletion with debounce, I have included a full demo showcasing how to connect a Databricks App using the Dash framework to the 1. backend part to realize the goal. Repo: https://github.com/BlitzBricksterYY-db/cvs_POC_original_code
+3. If you couldn't access the previous PR link, for reference about how to connect backend and frontend parts to enable Genie user's keyboard input's real-time semantic search autocompletion with debounce, I have included a full demo showcasing how to connect a Databricks App using the Dash framework to the 1. backend part to realize the goal. Repo (EMU): https://github.com/yang-yang_data/cvs_POC_original_code
 
 # Wiki:
 1. internal link:
    - Hackathon link: https://databricks.atlassian.net/wiki/spaces/UN/pages/5351080471/Genie+Can+Autocomplete+You
    - FE-All-Stars link: https://databricks.atlassian.net/browse/FEIP-1572
-3. Youtube demo video: https://www.youtube.com/watch?v=ipHh_NbOkS4
+2. Youtube demo video (90s): https://www.youtube.com/watch?v=ipHh_NbOkS4
 
 
 >------------------------------
