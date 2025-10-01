@@ -19,11 +19,10 @@ Genie Autocomplete makes question-asking easier and smarter by suggesting the mo
 With Genie Autocomplete, users explore rooms more effectively, get higher-quality answers, and curators save time.
 
 
-
 # Assets:
 1. Backend part including ETL & Synthesis & VS index modules tested on Dogfood Workspace. Please reference the three notebooks under the root folder.
 2. Genie Frontend UI and API part sit inside the Genie Eng codebase so we couldn't put here. Internal link of PR: https://github.com/databricks-eng/universe/pull/1292467
-3. For reference about how to connect backend and frontend parts, I have included a demo showcasing how to connect Databricks Apps using Dash framework to the backend part to realize the same functionality. 
+3. If you couldn't access the previous PR link, for reference about how to connect backend and frontend parts to enable Genie user's keyboard input's real-time semantic search autocompletion with debounce, I have included a full demo showcasing how to connect a Databricks App using the Dash framework to the 1. backend part to realize the goal. Repo: https://github.com/BlitzBricksterYY-db/cvs_POC_original_code
 
 # Wiki:
 1. internal link:
